@@ -1,0 +1,2 @@
+# Data-Structures-Linked-List-Operations
+In this repository i have written C language code to create and display link list and performed various operations like counting nodes,addition of nodes,maximum element out of all nodes,searching element in link list,Inserting new node in  link list,,creating a link list by inserting at last,delete element from link list,check if link list is sorted,remove duplicates from link list,reverse a link list.
